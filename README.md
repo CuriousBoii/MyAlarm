@@ -2,4 +2,4 @@
 
 
 heyyyyy!!!!
-this by online editor in website
+this is an alarm that takes input from exccel or the gui for working..
