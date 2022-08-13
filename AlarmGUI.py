@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from tkinter import *
 root = Tk()
 root.title("MyAlarm App")
@@ -9,3 +10,15 @@ entry1.pack()
 labl = Label(root, text="hi !!")
 print("this is from the idle")
 print("this is from vscode")
+=======
+from time import *
+from Main import *
+from tkinter import *
+root = Tk()
+root.geometry("500x500")
+b = ctime()
+a = Label(root, text = ctime(), fg = "black", bg = "red")
+a.pack()
+
+root.mainloop()
+>>>>>>> f13e6dca88ba0e3999959b4ccf16828144c39d0a
