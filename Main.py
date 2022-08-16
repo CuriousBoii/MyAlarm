@@ -23,4 +23,4 @@ class AlarmRinger():
 print(dt_today)
 print(time_now)
 timestamps = [["14:09", "Aug92022", "text1"], ["14:24","Aug92022", "text2"]]
-bot = AlarmRinger(timestamps)
+#bot = AlarmRinger(timestamps)
