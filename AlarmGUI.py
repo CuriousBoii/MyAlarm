@@ -1,4 +1,3 @@
-
 from time import *
 from Main import *
 from tkinter import *
