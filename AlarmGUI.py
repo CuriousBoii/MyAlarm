@@ -17,3 +17,4 @@ b = Label(root, text="boom")
 b.pack()
 
 root.mainloop()
+#>>>>>>> f13e6dca88ba0e3999959b4ccf16828144c39d0a
